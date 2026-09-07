@@ -8,10 +8,10 @@ Welcome to my DSA repository! This repository contains clean C++ implementations
 
 | Category | Algorithm Name | Time Complexity | Implementation Link |
 | :--- | :--- | :--- | :--- |
-| **Graph** | Breadth-First Search (BFS) | $O(V + E)$ | [View Code](./03_Graph_Algorithms/1_BFS_Traversal.cpp) |
-| **Graph** | Depth-First Search (DFS) | $O(V + E)$ | [View Code](./03_Graph_Algorithms/2_DFS_Traversal.cpp) |
-| **Graph** | Dijkstra's Algorithm | $O((V + E) \log V)$ | [View Code](./03_Graph_Algorithms/3_Dijkstra_Algorithm.cpp) |
-| **Graph** | Dijkstra's Algorithm | $O((V + E) \log V)$ | [View Code](./03_Graph_Algorithms/3_Dijkstra_using_grid.cpp) |
+| **Graph** | Breadth-First Search (BFS) | $O(V + E)$ 
+| **Graph** | Depth-First Search (DFS) | $O(V + E)$ 
+| **Graph** | Dijkstra's Algorithm | $O((V + E) \log V)$ 
+| **Graph** | Dijkstra's Algorithm | $O((V + E) \log V)$ 
 
 ---
 
