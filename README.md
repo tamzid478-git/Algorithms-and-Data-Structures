@@ -6,7 +6,7 @@ Welcome to my DSA repository! This repository contains clean C++ implementations
 
 ### 📌 Algorithm Index & Complexities
 
-| Category | Algorithm Name | Time Complexity | Implementation Link |
+| Category | Algorithm Name | Time Complexity 
 | :--- | :--- | :--- | :--- |
 | **Graph** | Breadth-First Search (BFS) | $O(V + E)$ 
 | **Graph** | Depth-First Search (DFS) | $O(V + E)$ 
